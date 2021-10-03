@@ -1,6 +1,6 @@
 ### <h1>👋**Hi there**</h1>
-
-I am Liam Waters and I study Computer Science at Aston University, I am currently in my 2nd year.
+<h2>I'm Liam Waters </h2>
+I study Computer Science at Aston University, I am currently in my 2nd year.
 
 I have worked on multiple programming projects during my time at University. The projects stored in my GitHub repositories are projects that I have fully developed myself.
 

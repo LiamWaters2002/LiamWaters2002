@@ -2,7 +2,7 @@
 <h2>I'm Liam Waters </h2>
 I study Computer Science at Aston University, I am currently in my 2nd year.
 
-I have worked on multiple programming projects during my time at University. The projects stored in my GitHub repositories are projects that I have fully developed myself.
+I have worked on multiple programming projects during my time at University. The University Events Web Application and the Law Software are projects that I have fully developed myself. The online multiplayer turn based game is a project which was worked on by a team, and is currently an ongoing project.
 
 
 

@@ -6,7 +6,7 @@ I have worked on multiple programming projects during my studies including in un
 <h2><b><u>Projects</u></b></h2>
 <h3><i>Source code for some of my projects will become publically avaliable once I graduate</i></h3>
 
-The University Events Web Application (private) (Module: Internet Applications and Database Design),
+The University Events Web Application (Private) (Module: Internet Applications and Database Design),
 
 A Unique Revision Tool Web Application (Private), 
 

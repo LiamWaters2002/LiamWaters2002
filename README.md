@@ -18,7 +18,7 @@ Travel Mobile Application (Private) (Module: Mobile Design and Development),
 
 Online Multiplayer 3D game (Private) (Module: Game Development),
 
-3D Mobile Stategy Game - which also encourages physical activity (Private) (Module: Individiual Project)
+3D Mobile Stategy Game - economic simulatior (Private) (Module: Individiual Project)
 
 
 

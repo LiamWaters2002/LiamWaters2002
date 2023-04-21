@@ -16,9 +16,12 @@ Online Multiplayer Turn Based Game (Module: Team Project) (public),
 
 Travel Mobile Application (Private) (Module: Mobile Design and Development),
 
+
+**What I am currently working on:**
+
 Online Multiplayer 3D game (Private) (Module: Game Development),
 
-3D Mobile Stategy Game - economic simulatior (Private) (Module: Individiual Project)
+3D Mobile Game - Economic Simulation (Private) (Module: Individiual Project)
 
 
 

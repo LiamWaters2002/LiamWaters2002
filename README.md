@@ -21,7 +21,7 @@ Travel Mobile Application (Private) (Module: Mobile Design and Development),
 
 Online Multiplayer 3D game (Private) (Module: Game Development),
 
-3D Mobile Game - Economic Simulation (Private) (Module: Individiual Project)
+3D Mobile Game - Economy Simulation (Private) (Module: Individiual Project)
 
 
 

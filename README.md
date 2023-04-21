@@ -4,7 +4,7 @@ I study Computer Science at Aston University, I am currently in my final year.
 I have worked on multiple programming projects during my studies including in universitiy modules and personal projects outside of university.
 
 <h2><b><u>Projects</u></b></h2>
-<h3><i>Source code for some of my projects will become publically avaliable once I graduate</i></h3>
+<h3><i>Source code for some of my projects will become publicly avaliable once I graduate</i></h3>
 
 The University Events Web Application (Private) (Module: Internet Applications and Database Design),
 

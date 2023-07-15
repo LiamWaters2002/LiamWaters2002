@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liam Waters</h1>
-<h3 align="center">I am a (soon to be) Computer Science graduate from Aston University.</h3>
+<h3 align="center">Computer Science Graduate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
